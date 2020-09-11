@@ -1,0 +1,39 @@
+{
+  "name": "jsreport-gcp-storage",
+  "version": "0.0.1",
+  "description": "jsreport extension adding support for storing blobs in gcp cloud storage",
+  "keywords": [
+    "jsreport",
+    "gcp"
+  ],
+  "scripts": {
+    "test": "standard"
+  },
+  "standard": {
+    "ignore": [
+      "main.js"
+    ],
+    "parser": "babel-eslint",
+    "env": {
+      "node": true,
+      "mocha": true,
+      "browser": true
+    }
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/storage": "5.3.0"
+  },
+  "author": "Kacey Cole",
+  "devDependencies": {
+    "babel-eslint": "10.1.0",
+    "eslint": "6.8.0",
+    "standard": "14.3.1"
+  },
+  "files": [
+    "lib",
+    "studio",
+    "index.js",
+    "jsreport.config.js"
+  ]
+}
