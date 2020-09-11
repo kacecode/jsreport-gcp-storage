@@ -1,4 +1,5 @@
 # jsreport-gcp-storage
+[![NPM Version](http://img.shields.io/npm/v/jsreport-gcp-storage.svg?style=flat-square)](https://npmjs.com/package/jsreport-gcp-storage)
 
  jsreport extension adding support for storing blobs in Google Cloud Storage
 
