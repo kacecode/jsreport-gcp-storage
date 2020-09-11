@@ -1,6 +1,6 @@
 {
   "name": "jsreport-gcp-storage",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "jsreport extension adding support for storing blobs in gcp cloud storage",
   "keywords": [
     "jsreport",
