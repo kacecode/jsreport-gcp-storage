@@ -28,7 +28,7 @@ Sample `jsreport.config.json`
   },
   "extensions": {
     "gcp-storage": {
-      "bucket": "weave-analytics-huddle"
+      "bucket": "my-bucket"
     }
   }
 }
